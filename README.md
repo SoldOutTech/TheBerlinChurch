@@ -1,8 +1,8 @@
-# ⛪️ thedublin.church
+# ⛪️ theberlin.church
 
-This is the official website of the **Dublin International Christian Church**, built to be beautiful, performant, and scalable for other churches to replicate.
+This is the official website of the **Berlin International Christian Church**, built to be beautiful, performant, and scalable for other churches to replicate.
 
-> 🧭 Live: [thethedublin.church](https://thedublin.church)
+> 🧭 Live: [theberlin.church](https://theberlin.church)
 
 ---
 
@@ -23,8 +23,8 @@ This is the official website of the **Dublin International Christian Church**, b
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/vizcosity/thelondonchurch.git
-cd thelondonchurch
+git clone https://github.com/vizcosity/theberlinchurch.git
+cd theberlinchurch
 npm install
 ```
 
