@@ -17,7 +17,7 @@ const config: types.ReactBricksConfig = {
     logoWidth: 35,
     logoHeight: 35,
     sideImage: './dublin_worship.jpg',
-    welcomeText: "The Dublin Church Admin",
+    welcomeText: "The Berlin Church Admin",
     welcomeTextStyle: {
       fontWeight: 'medium',
       fontFamily: "sans-serif",

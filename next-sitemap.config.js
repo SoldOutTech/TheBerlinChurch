@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://www.thelondon.church',
+  siteUrl: 'https://www.theberlin.church',
   generateRobotsTxt: true,
   sitemapSize: 5000,
   // 👇 This disables locale prefixing in sitemap
